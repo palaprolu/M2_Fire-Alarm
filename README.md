@@ -4,4 +4,3 @@
 
 [![BUILD WINDOWS](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/BUILD%20WINDOWS.yml/badge.svg?branch=main)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/BUILD%20WINDOWS.yml)
 
-[![BUILD LINUX](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/BUILD%20LINUX.yml/badge.svg?branch=main)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/BUILD%20LINUX.yml)
