@@ -15,3 +15,5 @@
 [![STATIC CODE](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/STATIC%20CODE.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/STATIC%20CODE.yml)
 
 [![VALGRIND](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/VALGRIND.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/VALGRIND.yml)
+
+[![UNIT TESTING](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/UNIT%20TESTING.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/UNIT%20TESTING.yml)
