@@ -10,3 +10,5 @@
 
 [![DYNAMIC CHECK](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/DYNAMIC%20CHECK.yml/badge.svg?branch=main)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/DYNAMIC%20CHECK.yml)
 
+[![DYNAMIC CHECK](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/DYNAMIC%20CHECK.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/DYNAMIC%20CHECK.yml)
+
