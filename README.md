@@ -17,3 +17,5 @@
 [![VALGRIND](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/VALGRIND.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/VALGRIND.yml)
 
 [![UNIT TESTING](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/UNIT%20TESTING.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/UNIT%20TESTING.yml)
+
+[![CPP CHECK](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/CPP%20CHECK.yml/badge.svg)](https://github.com/palaprolu/M2_Fire-Alarm/actions/workflows/CPP%20CHECK.yml)
